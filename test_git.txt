@@ -5,5 +5,3 @@ I am learning git
 This change was made in practice-branch
 
 This line comes from MAIN.
-
-6776
